@@ -1,0 +1,6 @@
+tensorflow
+plotly
+pandas
+sklearn
+psutil
+kaleido
